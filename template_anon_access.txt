@@ -1,0 +1,1 @@
+client_id=<client_id>&grant_type=client_credentials&username=<buyerid>&scope=MeAdmin PasswordReset Shopper

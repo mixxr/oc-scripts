@@ -1,0 +1,1 @@
+curl https://westeurope-sandbox.ordercloud.io/v1/orders/Outgoing/$2 -X GET -H "Content-Type: application/json;" -H  "Authorization: Bearer "$1

@@ -1,0 +1,1 @@
+curl -X POST https://westeurope-sandbox.ordercloud.io/oauth/token -H "Content-Type: application/x-www-form-urlencoded;" -d @anon_access.txt
